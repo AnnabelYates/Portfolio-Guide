@@ -3,12 +3,12 @@
 Welcome to my data analysis portfolio! 
 
 ## Table of Contents
-- Python
+- Python [Python](#-python)
 - Spreadsheets
 - SQL
 - Tableau
 
-# Python
+# Python 
 
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
