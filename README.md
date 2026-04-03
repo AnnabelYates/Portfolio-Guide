@@ -3,10 +3,10 @@
 Welcome to my data analysis portfolio! 
 
 ## Table of Contents
-- Python [Python](#-python)
-- Spreadsheets
-- SQL
-- Tableau
+- [Python](#-python)
+- [Spreadsheets](#-spreadsheets)
+- [SQL](#-sql)
+- [Tableau](#-tableau)
 
 # Python 
 
