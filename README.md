@@ -3,30 +3,30 @@
 Welcome to my data analysis portfolio! 
 
 ## Table of Contents
-- [Python](#-python)
-- [Spreadsheets](#-spreadsheets)
-- [SQL](#-sql)
-- [Tableau](#-tableau)
+- [Python](#python)
+- [Spreadsheets](#spreadsheets)
+- [SQL](#sql)
+- [Tableau](#tableau)
 
-# Python 
-
-| Link | Summary | Skill Focus |
-| ---- | ----| ----|
-| info | info | info |
-
-# Spreadsheets
+## Python 
 
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
 | info | info | info |
 
-# SQL
+## Spreadsheets
 
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
 | info | info | info |
 
-# Tableau 
+## SQL
+
+| Link | Summary | Skill Focus |
+| ---- | ----| ----|
+| info | info | info |
+
+## Tableau 
 
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
