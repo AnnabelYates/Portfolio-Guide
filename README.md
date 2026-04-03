@@ -12,7 +12,7 @@ Welcome to my data analysis portfolio!
 
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
-| info | info | info |
+| [Sailfort Motors Employee Retention Project](https://github.com/AnnabelYates/Sailfort-Motors-Employee-Retention-Project) | info | info |
 
 ## Spreadsheets
 
