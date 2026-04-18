@@ -24,10 +24,10 @@ Welcome to my data analysis portfolio!
 
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
-| [Danny's Diner EDA](https://github.com/AnnabelYates/Danny-s-Diner-EDA) | I used SQL queries to analyze a small dataset for a new business. | queries, JOINs, aggregations |
+| [Danny's Diner EDA](https://github.com/AnnabelYates/Danny-s-Diner-EDA) | I used SQL queries to analyze a small dataset for a new business. | queries, JOINs, aggregations, EDA |
 
 ## Tableau 
 
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
-| info | info | info |
+| [Superstore Sales EDA](https://public.tableau.com/shared/FGB35JDKX?:display_count=n&:origin=viz_share_link)| I used visual analytics to discover sales trends for a superstore. | dashboards, Tableau story, data visualizations, EDA, calculated fields, parameters |
