@@ -18,7 +18,7 @@ Welcome to my data analysis portfolio!
 
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
-| info | info | info |
+| [America's National Parks: An Idyllic Vacation](https://github.com/AnnabelYates/America-s-National-Parks-An-Idyllic-Vacation) | I used Google Sheets to analyze National Park visitation statistics and death data to provide a travel recommendation for a client.| EDA, data cleaning, filtering/sorting, pivot table |
 
 ## SQL
 
