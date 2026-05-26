@@ -19,7 +19,7 @@ Welcome to my data analysis portfolio!
 | Link | Summary | Skill Focus |
 | ---- | ----| ----|
 | [America's National Parks: An Idyllic Vacation](https://github.com/AnnabelYates/America-s-National-Parks-An-Idyllic-Vacation) | I used Google Sheets to analyze National Park visitation statistics and death data to provide a travel recommendation for a client.| EDA, data cleaning, filtering/sorting, pivot table |
-| [SouthStyle Food Sales Factors Analysis ](https://github.com/AnnabelYates/SouthStyle-Food-Sales-Factors-Analysis)| I used Excel to perform a correlation analysis and regression analysis to identify variables affecting sales and create a formula to forecast sales for a food manufacturer.| regression analysis, correlation analysis|
+| [SouthStyle Food Sales Factors Analysis ](https://github.com/AnnabelYates/SouthStyle-Food-Sales-Factors-Analysis)| I used Excel to perform a correlation analysis and regression analysis to identify variables affecting sales and create a formula to forecast sales for a food manufacturer.| regression analysis, correlation analysis, sales forecast|
 
 ## SQL
 
